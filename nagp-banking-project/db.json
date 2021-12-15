@@ -1,0 +1,193 @@
+{
+  "users": [
+    {
+      "id": "NAGP",
+      "username": "NAGP",
+      "dob": "16-04-1992",
+      "gender": "Male",
+      "account_number": "0262323223",
+      "account_type": "Savings",
+      "state": "Punjab",
+      "city": "Amritsar",
+      "password": "nagp",
+      "balance": 95000
+    },
+    {
+      "id": "TEST",
+      "username": "TEST",
+      "dob": "16-3-1992",
+      "gender": "Male",
+      "account_number": "11111",
+      "account_type": "Savings",
+      "state": "Haryana",
+      "city": "Gurgaon",
+      "password": "11111",
+      "balance": 504900
+    }
+  ],
+  "transactions": [
+    {
+      "id": 0,
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": 50000,
+      "date": "10-09-2021",
+      "description": "Rent"
+    },
+    {
+      "id": 1,
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": 50000,
+      "date": "10-09-2021",
+      "description": "Rent"
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "100",
+      "date": "2-8-2021",
+      "description": "for me",
+      "id": 2
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Deposit",
+      "amount": "1000",
+      "date": "2-8-2021",
+      "description": "Cash",
+      "id": 3
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "100",
+      "date": "2-8-2021",
+      "description": "for me",
+      "id": 4
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Deposit",
+      "amount": "1000",
+      "date": "2-8-2021",
+      "description": "Cash",
+      "id": 5
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "100",
+      "date": "2-8-2021",
+      "description": "for me",
+      "id": 6
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Deposit",
+      "amount": "1000",
+      "date": "2-8-2021",
+      "description": "Cash",
+      "id": 7
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "100",
+      "date": "2-8-2021",
+      "description": "for me",
+      "id": 8
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Deposit",
+      "amount": "1000",
+      "date": "2-8-2021",
+      "description": "Cash",
+      "id": 9
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "100",
+      "date": "2-8-2021",
+      "description": "for me",
+      "id": 10
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Deposit",
+      "amount": "1000",
+      "date": "2-8-2021",
+      "description": "Cash",
+      "id": 11
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Deposit",
+      "amount": "200",
+      "date": "2-8-2021",
+      "description": "testing now",
+      "id": 12
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "1100",
+      "date": "2-8-2021",
+      "description": "test",
+      "id": 13
+    },
+    {
+      "username": "NAGP",
+      "transactionType": "Withdrawal",
+      "amount": "5000",
+      "date": "2-8-2021",
+      "description": "Withdrawing for personal use.",
+      "id": 14
+    },
+    {
+      "username": "TEST",
+      "transactionType": "Deposit",
+      "amount": "500000",
+      "date": "2-9-2021",
+      "description": "cash",
+      "id": 15
+    },
+    {
+      "username": "TEST",
+      "transactionType": "Withdrawal",
+      "amount": "100",
+      "date": "2-9-2021",
+      "description": "earphones",
+      "id": 16
+    },
+    {
+      "username": "TEST",
+      "transactionType": "Withdrawal",
+      "amount": "1000",
+      "date": "2-9-2021",
+      "description": "recharge",
+      "id": 17
+    },
+    {
+      "username": "TEST",
+      "transactionType": "Deposit",
+      "amount": "5000",
+      "date": "2-9-2021",
+      "description": "salary",
+      "id": 18
+    },
+    {
+      "username": "TEST",
+      "transactionType": "Deposit",
+      "amount": "1000",
+      "date": "2-9-2021",
+      "description": "interset",
+      "id": 19
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
